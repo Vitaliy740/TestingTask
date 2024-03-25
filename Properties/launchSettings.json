@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestTask": {
+      "commandName": "Project",
+      "commandLineArgs": "\"3:1\", \"2:2\", \"0:1\", \"4:2\", \"3:a\", \"3- 12\""
+    }
+  }
+}
